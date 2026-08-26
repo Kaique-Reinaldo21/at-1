@@ -1,4 +1,6 @@
 # at-1
-## Perfil Compartilhado do Time
-- Nome: Leonardo
-- Linguagem a aprender: Java
+## projeto da Dupla Branchs 2
+- Nome: Leonardo e Kaique
+- Linguagem favorita: JAVA e JS
+
+ 
