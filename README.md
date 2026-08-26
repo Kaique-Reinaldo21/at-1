@@ -1,3 +1,4 @@
 # at-1
-- Nome: Leonardo
-- Linguagem favorita: JAVA
+## Integrante 1
+- Nome: Kaique
+- Linguagem favorita: JS
