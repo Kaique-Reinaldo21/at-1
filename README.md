@@ -1,4 +1,6 @@
 # at-1
-## projeto da Dupla Fantastica
-- Nome: Leonardo
-- Linguagem favorita: JAVA
+## projeto da Dupla Branchs
+- Nome: Leonardo e Kaique
+- Linguagem favorita: JAVA e JS
+ git checkout -b feature
+ 
