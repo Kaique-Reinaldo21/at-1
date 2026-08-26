@@ -1,4 +1,4 @@
 # at-1
-## projeto da Dupla Fantastica
+## Perfil Compartilhado do Time
 - Nome: Leonardo
-- Linguagem favorita: JAVA
+- Linguagem a aprender: Java
