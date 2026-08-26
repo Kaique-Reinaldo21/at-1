@@ -1,4 +1,4 @@
 # at-1
-## dupla fantastica 2
+## projeto da Dupla Fantastica
 - Nome: Leonardo
 - Linguagem favorita: JAVA
